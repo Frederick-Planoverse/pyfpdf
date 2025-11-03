@@ -28,7 +28,7 @@ To get the latest development version you can download the source code running:
 ```
    git clone https://github.com/reingart/pyfpdf.git
    cd pyfpdf
-   python setup.py install
+   python setup.py install 
 ```
 
 You can also install PyFPDF from PyPI, with easyinstall or from Windows 
